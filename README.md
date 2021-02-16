@@ -1,3 +1,3 @@
 # Movie Info App
-A Javascript (with jQuery) project. 
-Credits: Traversy Media
+Proyecto desarrollado con Javascript & jQuery. Correr index.html en cualquier servidor (por ejemplo, npm live-server)
+Creditos: Traversy Media
