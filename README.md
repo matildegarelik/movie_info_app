@@ -1,2 +1,3 @@
-# movie_info_app
-A Javascript (with jQuery) Movie Info App
+# Movie Info App
+A Javascript (with jQuery) project. 
+Credits: Traversy Media
